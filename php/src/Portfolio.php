@@ -2,6 +2,9 @@
 
 namespace FernandoDelCazBabon\Php;
 
+use DateTime;
+use Exception;
+
 require_once 'Asset.php';
 
 class Portfolio {
