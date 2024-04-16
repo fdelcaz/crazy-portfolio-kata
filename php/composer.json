@@ -1,0 +1,22 @@
+{
+    "name": "fernando.del-caz-babon/php",
+    "description": "Php version",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^11.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "FernandoDelCazBabon\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fernando del Caz",
+            "email": "fernandodelcaz@gmail.com"
+        }
+    ]
+}
