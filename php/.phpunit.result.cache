@@ -1,1 +1,1 @@
-{"version":1,"defects":{"PortfolioTest::testComputePortfolioValue":5},"times":{"PortfolioTest::testComputePortfolioValue":0.004}}
+{"version":1,"defects":{"PortfolioTest::testComputePortfolioValue":5,"PortfolioTest::testComputePortfolioValueWithWrongDate":7},"times":{"PortfolioTest::testComputePortfolioValue":0.004,"PortfolioTest::testComputePortfolioValueWithWrongDate":0.004}}
